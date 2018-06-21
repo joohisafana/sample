@@ -6,7 +6,7 @@
 	<groupId>com.circleci</groupId>
 	<artifactId>sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>sample</name>
 	<description>Demo project for Java on CircleCI 2.0</description>
